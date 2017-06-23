@@ -23,7 +23,7 @@ public class SingleDimensionalArray
     		
     		//Sort array and print the median value
     		Arrays.sort(valueArray);
-    		System.out.println("Median: " + valueArray[60] + "\n");
+    		System.out.println("Median: " + valueArray[50] + "\n");
     		
     		//Print 10th position/value starting in 10
     		for(int i = 9; i < valueArray.length; i +=10) {
